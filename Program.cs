@@ -1,7 +1,7 @@
 ﻿using System;
 using MySql.Data.MySqlClient;
 
-class Program
+class BookService
 {
     static string connectionString = "server=localhost;user=root;password=Argjentina.12!;database=library_db";
 

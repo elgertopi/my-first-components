@@ -1,0 +1,22 @@
+# Ignore Visual Studio folders and files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore user secrets
+secrets.json
+
+# OS-specific files
+Thumbs.db
+.DS_Store
